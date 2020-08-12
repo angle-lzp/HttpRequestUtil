@@ -1,0 +1,3 @@
+该HttpRequestUtil工具类可以执行post和get请求
+sendPost和sendGet方法
+具体可以查看java文件
